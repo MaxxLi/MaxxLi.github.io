@@ -2,10 +2,13 @@
   color: #5a5a5a;
   font-size: 11px;
   font-weight: bold;
-  padding: 14px 10px;
+  padding: 14px 10px; 
   text-transform: uppercase;
 }
 
+.nav {
+  padding-top: 6px;
+}
 .nav li {
   display: inline;
 }
@@ -19,7 +22,7 @@
 
 .jumbotron .container {
   position: relative;
-  top:100px;
+  top: 100px;
 }
 
 .jumbotron h1 {
